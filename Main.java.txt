@@ -9,5 +9,8 @@ class Main
 		System.out.println("283893");
 		System.out.println("9999");
 		System.out.println("6780");
+		System.out.println("#%$&^(");
+		System.out.println("*&(&&%^%*");
+				
 	}
 }
