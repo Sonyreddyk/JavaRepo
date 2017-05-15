@@ -1,8 +1,10 @@
-class M
+class Main
 {
 	public static void main(String args...)
 	{
 		System.out.println("Hi java");
 		System.out.println("Hi...kdscls");
+		System.out.println("yyyy");
+		System.out.println("ggg");
 	}
 }
