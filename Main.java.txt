@@ -11,6 +11,9 @@ class Main
 		System.out.println("6780");
 		System.out.println("#%$&^(");
 		System.out.println("*&(&&%^%*");
+		System.out.pritln("ghbklkml,.lm;l;.mkk");
+		System.out.println("==============================");
+		System.out.println("==============================");
 				
 	}
 }
